@@ -5,7 +5,7 @@
 * [ ] vue-routing
 * [ ] server-side rendering
 * [ ] event handling
-
+![demo](https://gfycat.com/AssuredThatAxolotl)
 ``` 
 # install dependencies
 npm install
